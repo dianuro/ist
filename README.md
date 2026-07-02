@@ -89,3 +89,7 @@ ist/
 ## 许可证
 
 MIT
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=dianuro/ist&type=date&logscale&legend=top-left)](https://www.star-history.com/?repos=dianuro%2Fist&type=date&logscale=&legend=top-left)
