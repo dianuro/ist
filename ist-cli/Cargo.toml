@@ -4,6 +4,10 @@ version.workspace = true
 edition.workspace = true
 license.workspace = true
 
+[[bin]]
+name = "ist"
+path = "src/main.rs"
+
 [dependencies]
 ist-core = { path = "../ist-core" }
 tokio.workspace = true
