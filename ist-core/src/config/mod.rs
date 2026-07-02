@@ -1,2 +1,2 @@
-// Config types — see task 2
-pub mod types;
+mod types;
+pub use types::*;
